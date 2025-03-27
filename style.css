@@ -4,6 +4,7 @@ body{
     align-items: center;
     height: 100vh;
     background: linear-gradient(#e205a0, #ff6600);
+    flex-direction: column;
 }
 #container{
     font-size: 18px;
@@ -48,4 +49,19 @@ p {
 }
 #resultado{
     margin-top: 15px;
+}
+#imgjs{
+    width: 90px;
+    height: 90px;
+}
+#imgcss{
+    width: 90px;
+    height: 120px;
+}
+#imghtml{
+    width: 120px;
+    height: 120px;
+}
+#tec{
+    color: #FFF;
 }
